@@ -10,7 +10,6 @@ The main goal of this project is to create a keylogger that captures and logs ke
 - Differentiation between various key states (Shift, Caps Lock).
 - Handling of special keys and modifier keys.
 - Utilization of Windows API functions to capture keyboard events.
-- Separation of concerns through the use of Object-Oriented Programming (OOP) principles and adherence to SOLID design principles.
 
 ## Repository Contents
 
